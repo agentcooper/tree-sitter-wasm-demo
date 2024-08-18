@@ -1,6 +1,6 @@
 ⚠️ WIP – does not work at the moment, help needed
 
-This repo is an attempt to compile unmodified [tree-sitter](https://crates.io/crates/tree-sitter) to WebAssembly based on discussion in https://github.com/tree-sitter/tree-sitter/discussions/1550. Alternative approach is to use [https://github.com/shadaj/tree-sitter-c2rust](tree-sitter-c2rust).
+This repo is an attempt to compile unmodified [tree-sitter](https://crates.io/crates/tree-sitter) to WebAssembly based on discussion in https://github.com/tree-sitter/tree-sitter/discussions/1550. Alternative approach is to use [tree-sitter-c2rust](https://github.com/shadaj/tree-sitter-c2rust).
 
 - Repo setup is based on https://github.com/jrieken/rust-wasm
 - `src/wasm_libc.rs` is copied from https://gist.github.com/nicx256/c86f172cece6370b6d503fa440473896

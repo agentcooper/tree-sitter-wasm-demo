@@ -1,4 +1,7 @@
-⚠️ WIP – does not work at the moment, help needed
+> [!WARNING]  
+> Does not work at the moment, help needed.
+>
+> For working version based on WASI see https://github.com/agentcooper/tree-sitter-wasi-web.
 
 This repo is an attempt to compile unmodified [tree-sitter](https://crates.io/crates/tree-sitter) to WebAssembly based on discussion in https://github.com/tree-sitter/tree-sitter/discussions/1550. Alternative approach is to use [tree-sitter-c2rust](https://github.com/shadaj/tree-sitter-c2rust).
 
